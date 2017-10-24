@@ -2,12 +2,12 @@
   "name": "node-replace",
   "description": "Command line search and replace utility",
   "license": "MIT",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Raphael Amorim <rapha850@gmail.com>",
   "main": "replace.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/harthur/replace.git"
+    "url": "http://github.com/raphamorim/node-replace.git"
   },
   "scripts": {
     "test": "tap test"
