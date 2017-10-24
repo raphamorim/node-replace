@@ -1,4 +1,7 @@
-# replace
+# node-replace
+
+> Maintaned Fork from [harthur/replace](https://github.com/harthur/replace)
+
 `replace` is a command line utility for performing search-and-replace on files. It's similar to sed but there are a few differences:
 
 * Modifies files when matches are found
@@ -8,7 +11,7 @@
 # Install
 With [node.js](http://nodejs.org/) and [npm](http://github.com/isaacs/npm):
 
-	npm install replace -g
+	npm install node-replace -g
 
 You can now use `replace` and `search` from the command line.
 
