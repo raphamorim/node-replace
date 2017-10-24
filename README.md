@@ -77,7 +77,7 @@ search "setTimeout" . -r
 You can use replace from your JS program:
 
 ```javascript
-var replace = require("replace");
+var replace = require("node-replace");
 
 replace({
   regex: "foo",

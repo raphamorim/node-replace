@@ -2,7 +2,7 @@
   "name": "node-replace",
   "description": "Command line search and replace utility",
   "license": "MIT",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "author": "Raphael Amorim <rapha850@gmail.com>",
   "main": "replace.js",
   "repository": {
